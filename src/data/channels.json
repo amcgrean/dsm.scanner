@@ -1,0 +1,1311 @@
+[
+  {
+    "slug": "isics-polk-county-des-moines",
+    "name": "Des Moines - All",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines"
+  },
+  {
+    "slug": "sara-des-moines-interop",
+    "name": "Des Moines - Interop",
+    "category": "SARA (Eastern IA)",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/sara-des-moines-interop"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-ems-tac",
+    "name": "Des Moines - EMS-Tac",
+    "category": "Polk / Des Moines Metro",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-ems-tac"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-emergency-ops",
+    "name": "Des Moines - Emergency Ops",
+    "category": "Polk / Des Moines Metro",
+    "kind": "emergency-ops",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-emergency-ops"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-fire-dispatch",
+    "name": "Des Moines - Fire Dispatch",
+    "category": "Polk / Des Moines Metro",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-fire-dispatch"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-fire-tac",
+    "name": "Des Moines - Fire-Tac",
+    "category": "Polk / Des Moines Metro",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-fire-tac"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-fire-talk",
+    "name": "Des Moines - Fire-Talk",
+    "category": "Polk / Des Moines Metro",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-fire-talk"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-interop",
+    "name": "Des Moines - Interop",
+    "category": "Polk / Des Moines Metro",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-interop"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-law-dispatch",
+    "name": "Des Moines - Law Dispatch",
+    "category": "Polk / Des Moines Metro",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-law-dispatch"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-law-tac",
+    "name": "Des Moines - Law Tac",
+    "category": "Polk / Des Moines Metro",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-law-tac"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-law-talk",
+    "name": "Des Moines - Law Talk",
+    "category": "Polk / Des Moines Metro",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-law-talk"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-multi-tac",
+    "name": "Des Moines - Multi-Tac",
+    "category": "Polk / Des Moines Metro",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-multi-tac"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-multi-talk",
+    "name": "Des Moines - Multi-Talk",
+    "category": "Polk / Des Moines Metro",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-multi-talk"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-public-works",
+    "name": "Des Moines - Public Works",
+    "category": "Polk / Des Moines Metro",
+    "kind": "public-works",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-public-works"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-area-regional-transit-authority-transportation",
+    "name": "Des Moines - Transportation",
+    "category": "Polk / Des Moines Metro",
+    "kind": "transportation",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-area-regional-transit-authority-transportation"
+  },
+  {
+    "slug": "air-123825-124525",
+    "name": "Air 123825 124525",
+    "category": "Aircraft",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/air-123825-124525"
+  },
+  {
+    "slug": "air-124550-125250",
+    "name": "Air 124550 125250",
+    "category": "Aircraft",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/air-124550-125250"
+  },
+  {
+    "slug": "air-125275-125925",
+    "name": "Air 125275 125925",
+    "category": "Aircraft",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/air-125275-125925"
+  },
+  {
+    "slug": "isics-all",
+    "name": "All",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-all"
+  },
+  {
+    "slug": "isics-business",
+    "name": "Business",
+    "category": "ISICS Services",
+    "kind": "business",
+    "url": "https://dsmrad.io/stream/isics-business"
+  },
+  {
+    "slug": "isics-emergency-ops",
+    "name": "Emergency Ops",
+    "category": "ISICS Statewide / Interop",
+    "kind": "emergency-ops",
+    "url": "https://dsmrad.io/stream/isics-emergency-ops"
+  },
+  {
+    "slug": "isics-ems-dispatch",
+    "name": "Ems Dispatch",
+    "category": "ISICS Services",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/isics-ems-dispatch"
+  },
+  {
+    "slug": "isics-ems-tac",
+    "name": "Ems Tac",
+    "category": "ISICS Services",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/isics-ems-tac"
+  },
+  {
+    "slug": "isics-fire-dispatch",
+    "name": "Fire Dispatch",
+    "category": "ISICS Services",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-fire-dispatch"
+  },
+  {
+    "slug": "isics-fire-tac",
+    "name": "Fire Tac",
+    "category": "ISICS Services",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-fire-tac"
+  },
+  {
+    "slug": "isics-fire-talk",
+    "name": "Fire Talk",
+    "category": "ISICS Services",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/isics-fire-talk"
+  },
+  {
+    "slug": "isics-hospital",
+    "name": "Hospital",
+    "category": "ISICS Services",
+    "kind": "hospital",
+    "url": "https://dsmrad.io/stream/isics-hospital"
+  },
+  {
+    "slug": "isics-interop",
+    "name": "Interop",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-interop"
+  },
+  {
+    "slug": "isics-law-dispatch",
+    "name": "Law Dispatch",
+    "category": "ISICS Services",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-law-dispatch"
+  },
+  {
+    "slug": "isics-law-tac",
+    "name": "Law Tac",
+    "category": "ISICS Services",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-law-tac"
+  },
+  {
+    "slug": "isics-law-talk",
+    "name": "Law Talk",
+    "category": "ISICS Services",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/isics-law-talk"
+  },
+  {
+    "slug": "isics-military",
+    "name": "Military",
+    "category": "ISICS Statewide / Interop",
+    "kind": "military",
+    "url": "https://dsmrad.io/stream/isics-military"
+  },
+  {
+    "slug": "isics-multi-dispatch",
+    "name": "Multi Dispatch",
+    "category": "ISICS Services",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/isics-multi-dispatch"
+  },
+  {
+    "slug": "isics-multi-tac",
+    "name": "Multi Tac",
+    "category": "ISICS Services",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/isics-multi-tac"
+  },
+  {
+    "slug": "isics-multi-talk",
+    "name": "Multi Talk",
+    "category": "ISICS Services",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/isics-multi-talk"
+  },
+  {
+    "slug": "isics-other",
+    "name": "Other",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-other"
+  },
+  {
+    "slug": "isics-public-works",
+    "name": "Public Works",
+    "category": "ISICS Services",
+    "kind": "public-works",
+    "url": "https://dsmrad.io/stream/isics-public-works"
+  },
+  {
+    "slug": "isics-security",
+    "name": "Security",
+    "category": "ISICS Services",
+    "kind": "security",
+    "url": "https://dsmrad.io/stream/isics-security"
+  },
+  {
+    "slug": "isics-transportation",
+    "name": "Transportation",
+    "category": "ISICS Services",
+    "kind": "transportation",
+    "url": "https://dsmrad.io/stream/isics-transportation"
+  },
+  {
+    "slug": "isics-unknown",
+    "name": "Unknown",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-unknown"
+  },
+  {
+    "slug": "isics-utilities",
+    "name": "Utilities",
+    "category": "ISICS Services",
+    "kind": "utilities",
+    "url": "https://dsmrad.io/stream/isics-utilities"
+  },
+  {
+    "slug": "sara-all",
+    "name": "All",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-all"
+  },
+  {
+    "slug": "sara-business",
+    "name": "Business",
+    "category": "SARA (Eastern IA)",
+    "kind": "business",
+    "url": "https://dsmrad.io/stream/sara-business"
+  },
+  {
+    "slug": "sara-emergency-ops",
+    "name": "Emergency Ops",
+    "category": "SARA (Eastern IA)",
+    "kind": "emergency-ops",
+    "url": "https://dsmrad.io/stream/sara-emergency-ops"
+  },
+  {
+    "slug": "sara-ems-dispatch",
+    "name": "Ems Dispatch",
+    "category": "SARA (Eastern IA)",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/sara-ems-dispatch"
+  },
+  {
+    "slug": "sara-ems-tac",
+    "name": "Ems Tac",
+    "category": "SARA (Eastern IA)",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/sara-ems-tac"
+  },
+  {
+    "slug": "sara-ems-talk",
+    "name": "Ems Talk",
+    "category": "SARA (Eastern IA)",
+    "kind": "ems",
+    "url": "https://dsmrad.io/stream/sara-ems-talk"
+  },
+  {
+    "slug": "sara-federal",
+    "name": "Federal",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-federal"
+  },
+  {
+    "slug": "sara-fire-dispatch",
+    "name": "Fire Dispatch",
+    "category": "SARA (Eastern IA)",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/sara-fire-dispatch"
+  },
+  {
+    "slug": "sara-fire-tac",
+    "name": "Fire Tac",
+    "category": "SARA (Eastern IA)",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/sara-fire-tac"
+  },
+  {
+    "slug": "sara-fire-talk",
+    "name": "Fire Talk",
+    "category": "SARA (Eastern IA)",
+    "kind": "fire",
+    "url": "https://dsmrad.io/stream/sara-fire-talk"
+  },
+  {
+    "slug": "sara-hospital",
+    "name": "Hospital",
+    "category": "SARA (Eastern IA)",
+    "kind": "hospital",
+    "url": "https://dsmrad.io/stream/sara-hospital"
+  },
+  {
+    "slug": "sara-interop",
+    "name": "Interop",
+    "category": "SARA (Eastern IA)",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/sara-interop"
+  },
+  {
+    "slug": "sara-law-dispatch",
+    "name": "Law Dispatch",
+    "category": "SARA (Eastern IA)",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/sara-law-dispatch"
+  },
+  {
+    "slug": "sara-law-tac",
+    "name": "Law Tac",
+    "category": "SARA (Eastern IA)",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/sara-law-tac"
+  },
+  {
+    "slug": "sara-law-talk",
+    "name": "Law Talk",
+    "category": "SARA (Eastern IA)",
+    "kind": "law",
+    "url": "https://dsmrad.io/stream/sara-law-talk"
+  },
+  {
+    "slug": "sara-multi-dispatch",
+    "name": "Multi Dispatch",
+    "category": "SARA (Eastern IA)",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/sara-multi-dispatch"
+  },
+  {
+    "slug": "sara-multi-tac",
+    "name": "Multi Tac",
+    "category": "SARA (Eastern IA)",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/sara-multi-tac"
+  },
+  {
+    "slug": "sara-multi-talk",
+    "name": "Multi Talk",
+    "category": "SARA (Eastern IA)",
+    "kind": "multi",
+    "url": "https://dsmrad.io/stream/sara-multi-talk"
+  },
+  {
+    "slug": "sara-public-works",
+    "name": "Public Works",
+    "category": "SARA (Eastern IA)",
+    "kind": "public-works",
+    "url": "https://dsmrad.io/stream/sara-public-works"
+  },
+  {
+    "slug": "sara-security",
+    "name": "Security",
+    "category": "SARA (Eastern IA)",
+    "kind": "security",
+    "url": "https://dsmrad.io/stream/sara-security"
+  },
+  {
+    "slug": "sara-transportation",
+    "name": "Transportation",
+    "category": "SARA (Eastern IA)",
+    "kind": "transportation",
+    "url": "https://dsmrad.io/stream/sara-transportation"
+  },
+  {
+    "slug": "sara-unknown",
+    "name": "Unknown",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-unknown"
+  },
+  {
+    "slug": "isics-adair-county",
+    "name": "Adair County",
+    "category": "ISICS Other Counties",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/isics-adair-county"
+  },
+  {
+    "slug": "isics-adams-county",
+    "name": "Adams County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-adams-county"
+  },
+  {
+    "slug": "sara-ames",
+    "name": "Ames",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-ames"
+  },
+  {
+    "slug": "isics-audubon-county",
+    "name": "Audubon County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-audubon-county"
+  },
+  {
+    "slug": "isics-benton-county",
+    "name": "Benton County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-benton-county"
+  },
+  {
+    "slug": "sara-benton-county",
+    "name": "Benton County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-benton-county"
+  },
+  {
+    "slug": "sara-bettendorf",
+    "name": "Bettendorf",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-bettendorf"
+  },
+  {
+    "slug": "sara-black-hawk-county",
+    "name": "Black Hawk County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-black-hawk-county"
+  },
+  {
+    "slug": "isics-boone-county",
+    "name": "Boone County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-boone-county"
+  },
+  {
+    "slug": "sara-buchanan-county",
+    "name": "Buchanan County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-buchanan-county"
+  },
+  {
+    "slug": "isics-butler-county",
+    "name": "Butler County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-butler-county"
+  },
+  {
+    "slug": "isics-calhoun-county",
+    "name": "Calhoun County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-calhoun-county"
+  },
+  {
+    "slug": "isics-carroll-county",
+    "name": "Carroll County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-carroll-county"
+  },
+  {
+    "slug": "isics-cass-county",
+    "name": "Cass County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-cass-county"
+  },
+  {
+    "slug": "sara-cedar-county",
+    "name": "Cedar County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-cedar-county"
+  },
+  {
+    "slug": "sara-cedar-falls",
+    "name": "Cedar Falls",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-cedar-falls"
+  },
+  {
+    "slug": "sara-cedar-rapids",
+    "name": "Cedar Rapids",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-cedar-rapids"
+  },
+  {
+    "slug": "isics-cerro-gordo-county",
+    "name": "Cerro Gordo County",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-cerro-gordo-county"
+  },
+  {
+    "slug": "isics-cerro-gordo-county-clear-lake",
+    "name": "Cerro Gordo County Clear Lake",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-cerro-gordo-county-clear-lake"
+  },
+  {
+    "slug": "isics-cerro-gordo-county-mason-city",
+    "name": "Cerro Gordo County Mason City",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-cerro-gordo-county-mason-city"
+  },
+  {
+    "slug": "isics-cherokee-county",
+    "name": "Cherokee County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-cherokee-county"
+  },
+  {
+    "slug": "isics-chickasaw-county",
+    "name": "Chickasaw County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-chickasaw-county"
+  },
+  {
+    "slug": "isics-clarke-county",
+    "name": "Clarke County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-clarke-county"
+  },
+  {
+    "slug": "isics-clinton-county",
+    "name": "Clinton County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-clinton-county"
+  },
+  {
+    "slug": "isics-clinton-county-clinton",
+    "name": "Clinton County Clinton",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-clinton-county-clinton"
+  },
+  {
+    "slug": "sara-coralville",
+    "name": "Coralville",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-coralville"
+  },
+  {
+    "slug": "isics-dakota-county-ne-south-sioux-city",
+    "name": "Dakota County Ne South Sioux City",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-dakota-county-ne-south-sioux-city"
+  },
+  {
+    "slug": "isics-dallas-county",
+    "name": "Dallas County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-dallas-county"
+  },
+  {
+    "slug": "isics-dallas-county-waukee",
+    "name": "Dallas County Waukee",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-dallas-county-waukee"
+  },
+  {
+    "slug": "sara-davenport",
+    "name": "Davenport",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-davenport"
+  },
+  {
+    "slug": "isics-department-of-public-safety-area-a",
+    "name": "Department Of Public Safety Area A",
+    "category": "ISICS Statewide / Interop",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-department-of-public-safety-area-a"
+  },
+  {
+    "slug": "isics-department-of-public-safety-area-b",
+    "name": "Department Of Public Safety Area B",
+    "category": "ISICS Statewide / Interop",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-department-of-public-safety-area-b"
+  },
+  {
+    "slug": "isics-department-of-public-safety-area-c",
+    "name": "Department Of Public Safety Area C",
+    "category": "ISICS Statewide / Interop",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-department-of-public-safety-area-c"
+  },
+  {
+    "slug": "isics-department-of-public-safety-area-d",
+    "name": "Department Of Public Safety Area D",
+    "category": "ISICS Statewide / Interop",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-department-of-public-safety-area-d"
+  },
+  {
+    "slug": "isics-dickinson-county",
+    "name": "Dickinson County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-dickinson-county"
+  },
+  {
+    "slug": "sara-dubuque",
+    "name": "Dubuque",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-dubuque"
+  },
+  {
+    "slug": "sara-dubuque-county",
+    "name": "Dubuque County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-dubuque-county"
+  },
+  {
+    "slug": "sara-eastern-iowa-airport",
+    "name": "Eastern Iowa Airport",
+    "category": "SARA (Eastern IA)",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/sara-eastern-iowa-airport"
+  },
+  {
+    "slug": "sara-eldridge",
+    "name": "Eldridge",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-eldridge"
+  },
+  {
+    "slug": "isics-fayette-county",
+    "name": "Fayette County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-fayette-county"
+  },
+  {
+    "slug": "isics-franklin-county",
+    "name": "Franklin County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-franklin-county"
+  },
+  {
+    "slug": "isics-fremont-county",
+    "name": "Fremont County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-fremont-county"
+  },
+  {
+    "slug": "isics-greene-county",
+    "name": "Greene County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-greene-county"
+  },
+  {
+    "slug": "sara-grundy-county",
+    "name": "Grundy County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-grundy-county"
+  },
+  {
+    "slug": "isics-guthrie-county",
+    "name": "Guthrie County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-guthrie-county"
+  },
+  {
+    "slug": "isics-hamilton-county",
+    "name": "Hamilton County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-hamilton-county"
+  },
+  {
+    "slug": "isics-hamilton-county-webster-city",
+    "name": "Hamilton County Webster City",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-hamilton-county-webster-city"
+  },
+  {
+    "slug": "isics-hancock-county",
+    "name": "Hancock County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-hancock-county"
+  },
+  {
+    "slug": "isics-hardin-county",
+    "name": "Hardin County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-hardin-county"
+  },
+  {
+    "slug": "isics-harrison-county",
+    "name": "Harrison County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-harrison-county"
+  },
+  {
+    "slug": "isics-humboldt-county",
+    "name": "Humboldt County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-humboldt-county"
+  },
+  {
+    "slug": "sara-isics-simulcast",
+    "name": "Simulcast",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-isics-simulcast"
+  },
+  {
+    "slug": "isics-ida-county",
+    "name": "Ida County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-ida-county"
+  },
+  {
+    "slug": "sara-iowa-city",
+    "name": "Iowa City",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-iowa-city"
+  },
+  {
+    "slug": "sara-iowa-county",
+    "name": "Iowa County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-iowa-county"
+  },
+  {
+    "slug": "isics-iowa-state-fairgrounds",
+    "name": "Iowa State Fairgrounds",
+    "category": "ISICS Services",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/isics-iowa-state-fairgrounds"
+  },
+  {
+    "slug": "sara-iowa-state-university",
+    "name": "Iowa State University",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-iowa-state-university"
+  },
+  {
+    "slug": "isics-jackson-county",
+    "name": "Jackson County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-jackson-county"
+  },
+  {
+    "slug": "sara-jasper-county",
+    "name": "Jasper County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-jasper-county"
+  },
+  {
+    "slug": "sara-johnson-county",
+    "name": "Johnson County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-johnson-county"
+  },
+  {
+    "slug": "isics-kossuth-county",
+    "name": "Kossuth County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-kossuth-county"
+  },
+  {
+    "slug": "isics-lee-county",
+    "name": "Lee County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-lee-county"
+  },
+  {
+    "slug": "isics-lee-county-fort-madison",
+    "name": "Lee County Fort Madison",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-lee-county-fort-madison"
+  },
+  {
+    "slug": "isics-lee-county-keokuk",
+    "name": "Lee County Keokuk",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-lee-county-keokuk"
+  },
+  {
+    "slug": "sara-linn-county",
+    "name": "Linn County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-linn-county"
+  },
+  {
+    "slug": "isics-lucas-county",
+    "name": "Lucas County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-lucas-county"
+  },
+  {
+    "slug": "sara-medcom",
+    "name": "Medcom",
+    "category": "SARA (Eastern IA)",
+    "kind": "medcom",
+    "url": "https://dsmrad.io/stream/sara-medcom"
+  },
+  {
+    "slug": "isics-madison-county",
+    "name": "Madison County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-madison-county"
+  },
+  {
+    "slug": "sara-mahaska-county",
+    "name": "Mahaska County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-mahaska-county"
+  },
+  {
+    "slug": "sara-marion",
+    "name": "Marion",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-marion"
+  },
+  {
+    "slug": "isics-marion-county",
+    "name": "Marion County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-marion-county"
+  },
+  {
+    "slug": "sara-marshall-county",
+    "name": "Marshall County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-marshall-county"
+  },
+  {
+    "slug": "sara-marshalltown",
+    "name": "Marshalltown",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-marshalltown"
+  },
+  {
+    "slug": "isics-mercy-one-iowa",
+    "name": "Mercy One Iowa",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-mercy-one-iowa"
+  },
+  {
+    "slug": "isics-mills-county",
+    "name": "Mills County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-mills-county"
+  },
+  {
+    "slug": "isics-monona-county",
+    "name": "Monona County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-monona-county"
+  },
+  {
+    "slug": "isics-montgomery-county",
+    "name": "Montgomery County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-montgomery-county"
+  },
+  {
+    "slug": "sara-north-liberty",
+    "name": "North Liberty",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-north-liberty"
+  },
+  {
+    "slug": "sara-oelwein",
+    "name": "Oelwein",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-oelwein"
+  },
+  {
+    "slug": "isics-page-county",
+    "name": "Page County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-page-county"
+  },
+  {
+    "slug": "sara-polk-county",
+    "name": "Polk County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-polk-county"
+  },
+  {
+    "slug": "isics-polk-county-clive",
+    "name": "Polk County Clive",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-clive"
+  },
+  {
+    "slug": "isics-polk-county-des-moines-airport",
+    "name": "Polk County Des Moines Airport",
+    "category": "Polk / Des Moines Metro",
+    "kind": "air",
+    "url": "https://dsmrad.io/stream/isics-polk-county-des-moines-airport"
+  },
+  {
+    "slug": "sara-polk-county-local-government",
+    "name": "Polk County Local Government",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-polk-county-local-government"
+  },
+  {
+    "slug": "isics-polk-county-unitypoint-health",
+    "name": "Polk County Unitypoint Health",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-unitypoint-health"
+  },
+  {
+    "slug": "isics-polk-county-urbandale",
+    "name": "Polk County Urbandale",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-urbandale"
+  },
+  {
+    "slug": "isics-polk-county-west-des-moines",
+    "name": "Polk County West Des Moines",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-west-des-moines"
+  },
+  {
+    "slug": "isics-polk-county-westcom",
+    "name": "Polk County Westcom",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-westcom"
+  },
+  {
+    "slug": "isics-polk-county-windsor-heights",
+    "name": "Polk County Windsor Heights",
+    "category": "Polk / Des Moines Metro",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-polk-county-windsor-heights"
+  },
+  {
+    "slug": "sara-poweshiek-county",
+    "name": "Poweshiek County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-poweshiek-county"
+  },
+  {
+    "slug": "sara-qcomm-consolidated-dispatch",
+    "name": "Qcomm Consolidated Dispatch",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-qcomm-consolidated-dispatch"
+  },
+  {
+    "slug": "sara-quad-cities-area",
+    "name": "Quad Cities Area",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-quad-cities-area"
+  },
+  {
+    "slug": "sara-radio-maintenance",
+    "name": "Radio Maintenance",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-radio-maintenance"
+  },
+  {
+    "slug": "isics-region-1-interoperability",
+    "name": "Region 1 Interoperability",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-region-1-interoperability"
+  },
+  {
+    "slug": "isics-region-2-interoperability",
+    "name": "Region 2 Interoperability",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-region-2-interoperability"
+  },
+  {
+    "slug": "isics-region-3-interoperability",
+    "name": "Region 3 Interoperability",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-region-3-interoperability"
+  },
+  {
+    "slug": "isics-region-5-interoperability",
+    "name": "Region 5 Interoperability",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-region-5-interoperability"
+  },
+  {
+    "slug": "isics-region-6-interoperability",
+    "name": "Region 6 Interoperability",
+    "category": "ISICS Statewide / Interop",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-region-6-interoperability"
+  },
+  {
+    "slug": "isics-ringgold-county",
+    "name": "Ringgold County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-ringgold-county"
+  },
+  {
+    "slug": "sara-rock-island",
+    "name": "Rock Island",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-rock-island"
+  },
+  {
+    "slug": "sara-rock-island-county",
+    "name": "Rock Island County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-rock-island-county"
+  },
+  {
+    "slug": "isics-sac-county",
+    "name": "Sac County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-sac-county"
+  },
+  {
+    "slug": "sara-scott-county",
+    "name": "Scott County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-scott-county"
+  },
+  {
+    "slug": "isics-shelby-county",
+    "name": "Shelby County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-shelby-county"
+  },
+  {
+    "slug": "isics-southwest-iowa-interop",
+    "name": "Southwest Iowa Interop",
+    "category": "ISICS Services",
+    "kind": "interop",
+    "url": "https://dsmrad.io/stream/isics-southwest-iowa-interop"
+  },
+  {
+    "slug": "sara-special-events",
+    "name": "Special Events",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-special-events"
+  },
+  {
+    "slug": "sara-story-county",
+    "name": "Story County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-story-county"
+  },
+  {
+    "slug": "sara-tama-county",
+    "name": "Tama County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-tama-county"
+  },
+  {
+    "slug": "isics-union-county",
+    "name": "Union County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-union-county"
+  },
+  {
+    "slug": "isics-union-county-sd-north-sioux-city",
+    "name": "Union County Sd North Sioux City",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-union-county-sd-north-sioux-city"
+  },
+  {
+    "slug": "sara-university-heights",
+    "name": "University Heights",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-university-heights"
+  },
+  {
+    "slug": "sara-university-of-iowa",
+    "name": "University Of Iowa",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-university-of-iowa"
+  },
+  {
+    "slug": "isics-university-of-northern-iowa",
+    "name": "University Of Northern Iowa",
+    "category": "ISICS Services",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-university-of-northern-iowa"
+  },
+  {
+    "slug": "isics-warren-county",
+    "name": "Warren County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-warren-county"
+  },
+  {
+    "slug": "isics-warren-county-norwalk",
+    "name": "Warren County Norwalk",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-warren-county-norwalk"
+  },
+  {
+    "slug": "sara-washington-county",
+    "name": "Washington County",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-washington-county"
+  },
+  {
+    "slug": "sara-waterloo",
+    "name": "Waterloo",
+    "category": "SARA (Eastern IA)",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/sara-waterloo"
+  },
+  {
+    "slug": "isics-webster-county",
+    "name": "Webster County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-webster-county"
+  },
+  {
+    "slug": "isics-webster-county-fort-dodge",
+    "name": "Webster County Fort Dodge",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-webster-county-fort-dodge"
+  },
+  {
+    "slug": "isics-winnebago-county",
+    "name": "Winnebago County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-winnebago-county"
+  },
+  {
+    "slug": "isics-woodbury-county",
+    "name": "Woodbury County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-woodbury-county"
+  },
+  {
+    "slug": "isics-woodbury-county-sioux-city",
+    "name": "Woodbury County Sioux City",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-woodbury-county-sioux-city"
+  },
+  {
+    "slug": "isics-worth-county",
+    "name": "Worth County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-worth-county"
+  },
+  {
+    "slug": "isics-wright-county",
+    "name": "Wright County",
+    "category": "ISICS Other Counties",
+    "kind": "other",
+    "url": "https://dsmrad.io/stream/isics-wright-county"
+  }
+]
